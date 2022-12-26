@@ -1,0 +1,44 @@
+header{
+    background-color: var(--amarillo);
+    padding: 20px 0;
+    font-size: var(--cuerpo_de_texto);
+}
+
+header .logo, header .serchBar{
+    margin: 0 20px;
+}
+
+header .serchBar i{
+    padding: 1px;
+    background-color: white;
+    border: 1px solid var(--grisMedio);
+    border-radius: 4px;
+}
+
+header .logo img{
+    width: 45%;
+}
+
+header p{
+    margin: 20px 0;
+    text-align: center;
+}
+
+header .links ul{
+    margin: 0 0 20px;
+}
+
+header .burger{
+    text-align: center;
+}
+
+header .burger i{
+    background-color: var(--azul);
+    color: white;
+    padding: 10px;
+    border-radius: 7px;
+    font-size: var(--titulares)
+}
+
+@media 
+

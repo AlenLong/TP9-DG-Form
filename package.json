@@ -1,0 +1,16 @@
+{
+  "name": "tp5-estructura",
+  "version": "1.0.0",
+  "description": "Trabajo Practico 5 - Estructura",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Along",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
